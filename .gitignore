@@ -1,0 +1,24 @@
+# Downloaded files
+mp3/
+download.log
+
+# User song list (use songs.example.txt as a template)
+songs.txt
+
+# Legacy local files
+sarkilar.txt
+indirilen.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini

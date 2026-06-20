@@ -1,0 +1,9 @@
+# One song per line. Use "Artist - Song Title" for better search results.
+# Blank lines and lines starting with # are ignored.
+
+Radiohead - Let Down
+Dua Lipa - Levitating
+The Weeknd - Blinding Lights
+
+# You can also paste a direct YouTube URL:
+# https://www.youtube.com/watch?v=VIDEO_ID

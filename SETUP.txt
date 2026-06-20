@@ -1,0 +1,24 @@
+YouTube MP3 Bulk Downloader - Setup
+====================================
+
+See README.md for full documentation.
+
+Quick steps:
+
+1) Install Python 3.10+ (enable "Add to PATH")
+   https://www.python.org/downloads/
+
+2) Install ffmpeg
+   winget install Gyan.FFmpeg
+
+3) Install dependencies
+   pip install -r requirements.txt
+
+4) Create your song list
+   copy songs.example.txt songs.txt
+   Add song names to songs.txt (one per line)
+
+5) Run
+   download.bat   (or: python download.py)
+
+Output folder: mp3/
