@@ -32,8 +32,8 @@ winget install Gyan.FFmpeg
 ### 2. Set up the project
 
 ```powershell
-git clone https://github.com/soneryesilay/youtube-mp3-indirici.git
-cd youtube-mp3-indirici
+git clone https://github.com/soneryesilay/youtube-mp3-downloader.git
+cd youtube-mp3-downloader
 pip install -r requirements.txt
 ```
 
@@ -66,7 +66,7 @@ Files are saved to the `mp3/` folder.
 ## Project Structure
 
 ```
-youtube-mp3-indirici/
+youtube-mp3-downloader/
 ├── download.py           # Main script
 ├── download.bat          # Windows one-click launcher
 ├── songs.example.txt     # Example song list
